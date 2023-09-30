@@ -1,0 +1,2 @@
+# photo_watermark
+一个前端为vue，后端为SprintBoot的开源照片水印添加工具，可以自动识别未处理的jpg和jpeg文件的感光度、焦距等
